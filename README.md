@@ -37,15 +37,14 @@ This repository demonstrates `ID document detection`, `ID card detector`, `ID ca
   <img src="https://github.com/user-attachments/assets/97fe33d6-c311-4a58-8c7e-bf44d6733962" width=240/>
 </p>
 
-### ◾ID Card Recognition SDK Main Functionalities
+### ◾ID Card Detection SDK Main Functionalities
 
   | Surpported ID Type      | Functionalities | Release Type |
   |------------------|------------------|------------------|
   | ID Card        | Detecting Front/Back Side   | Android(`Kotlin & Java`) |
-  | Passport        | Extracting ID Document's Coordinates    |  |
-  | Driver License        |  |  |
-  |         | Auto Capturing    | Web Front-end(`Javascript`) |
-  |         | Supporting 200+ Countries' ID Documents        | Server-Linux(`Python`) |
+  | Passport        | Extracting ID Document's Coordinates    | Web Front-end(`Javascript`) |
+  | Driver License        | Auto Capturing    | Server-Linux(`Python`) |
+  |         | Supporting 200+ Countries' ID Documents        |  |
 
 ### ◾ID Card Recognition Product List
   | No.      | Repository | Release Type |
