@@ -33,9 +33,8 @@ This repository demonstrates `ID document detection`, `ID card detector`, `ID ca
 ## Screenshots
 
 <p float="left">
-  <img src="https://github.com/kby-ai/IDCardRecognition-Android/assets/125717930/a3bcd830-7db3-4904-ad7c-0070b0a76faf" width=240/>
-  <img src="https://github.com/kby-ai/IDCardRecognition-Android/assets/125717930/9a753652-25b4-41ae-a1d5-b2e96c59aea8" width=240/>
-  <img src="https://github.com/kby-ai/IDCardRecognition-Android/assets/125717930/8ed4c26b-8306-43ca-9f32-094108bdca9e" width=240/>
+  <img src="https://github.com/user-attachments/assets/01cf09e4-2897-4cdc-8925-4f5d821e14a7" width=240/>
+  <img src="https://github.com/user-attachments/assets/97fe33d6-c311-4a58-8c7e-bf44d6733962" width=240/>
 </p>
 
 ### ◾ID Card Recognition SDK Main Functionalities
