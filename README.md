@@ -19,9 +19,9 @@
 # IDCardDetection-Android
 ## Overview
 
-This repository demonstrates `ID document recognition`, `ID card recognition`, `ID card scanner and reader` `ID document scanner and reader`, `ID Card OCR`, `passport reader` and `passport recognition` technology developed by `KBY-AI`.
+This repository demonstrates `ID document detection`, `ID card detector`, `ID card scanner and reader` `ID document scanner and reader`, and `passport reader` technology developed by `KBY-AI`.
 
-> In this repository, we integrated `KBY-AI`'s `ID document OCR` solution into `Android` native platform.</br>
+> In this repository, we integrated `KBY-AI`'s `ID document detection` solution into `Android` native platform.</br>
 ## Try the APK
 
 ### Google Play
@@ -29,10 +29,6 @@ This repository demonstrates `ID document recognition`, `ID card recognition`, `
 <a href="https://play.google.com/store/apps/details?id=com.kbyai.idcardrecognition" target="_blank">
   <img alt="" src="https://user-images.githubusercontent.com/125717930/230804673-17c99e7d-6a21-4a64-8b9e-a465142da148.png" height=80/>
 </a>
-
-## Performance Video
-You can visit our YouTube video [here](https://www.youtube.com/watch?v=s3G3MzrdDXI) to see how well our demo app works.</br></br>
-[![ID Card Recognition iOS](https://img.youtube.com/vi/s3G3MzrdDXI/0.jpg)](https://www.youtube.com/watch?v=s3G3MzrdDXI)
 
 ## Screenshots
 
