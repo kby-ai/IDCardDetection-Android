@@ -49,13 +49,15 @@ This repository demonstrates `ID document detection`, `ID card detector`, `ID ca
 ### ◾ID Card Recognition Product List
   | No.      | Repository | Release Type |
   |------------------|------------------|------------------|
-  | ➡️        | <b>[ID Card Recognition - Android](https://github.com/kby-ai/IDCardRecognition-Android)</b>    | <b>Android</b> |
+  | 1        | [ID Card Recognition - Android](https://github.com/kby-ai/IDCardRecognition-Android)    | Android |
   | 2        | [ID Card Recognition - iOS](https://github.com/kby-ai/IDCardRecognition-iOS)    | iOS |
   | 3        | [ID Card Recognition - Flutter](https://github.com/kby-ai/IDCardRecognition-Flutter)    | Flutter |
   | 4        | [ID Auto Capture - React](https://github.com/kby-ai/ID-document-capture-React)    | Web Front-end |
   | 5        | [ID Card Recognition - Windows](https://github.com/kby-ai/IDCardRecognition-Windows)        | Server-Windows |
   | 6        | [ID Card Recognition - Linux](https://github.com/kby-ai/IDCardRecognition-Docker)        | Server-Linux |
   | 7        | [ID Card Recognition - C#](https://github.com/kby-ai/IDCardRecognition-CSharp-.NET)        | Server-Windows |
+  | ➡️        | <b>[ID Card Detection - Android](https://github.com/kby-ai/IDCardDetection-Android)</b>    | <b>Android</b> |
+  
 
 ## SDK License
 
