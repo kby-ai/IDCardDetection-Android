@@ -42,14 +42,11 @@ This repository demonstrates `ID document detection`, `ID card detector`, `ID ca
 
   | Surpported ID Type      | Functionalities | Release Type |
   |------------------|------------------|------------------|
-  | ID Card        | Extracting Information(OCR)    | Android(`Kotlin & Java`) |
-  | Passport        | Scanning Barcode    | iOS(`Swift & Objectiv-C`) |
-  | Driver License        | Parsing MRZ    | Flutter(`Dart`) |
+  | ID Card        | Detecting Front/Back Side   | Android(`Kotlin & Java`) |
+  | Passport        | Extracting ID Document's Coordinates    |  |
+  | Driver License        |  |  |
   |         | Auto Capturing    | Web Front-end(`Javascript`) |
-  |         | Scanning QR code        | Server-Windows(`Python`) |
   |         | Supporting 200+ Countries' ID Documents        | Server-Linux(`Python`) |
-  |         | Supporting 130+ Languages        |  |
-  |         | ID Document Detection        |  |
 
 ### ◾ID Card Recognition Product List
   | No.      | Repository | Release Type |
