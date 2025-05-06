@@ -92,17 +92,17 @@ implementation project(path: ':iddetectsdk')
 
 - Step One
 
-To begin, you need to activate the SDK using the `license key` that you have received.
+To begin, you need to activate the `SDK` using the `license key` that you have received.
 ```kotlin
-IDSDK.setActivation("...")
+IDDetectSDK.setActivation("...")
 ```
 
-If activation is successful, SDK would return `SDK_SUCCESS`. Otherwise, it would return an error message.
+If activation is successful, `SDK` would return `SDK_SUCCESS`. Otherwise, it would return an error message.
 
 - Step Two
 
-Once activation is successful, you can call initialization function supported by our SDK.
+Once activation is successful, you can call initialization function supported by our `SDK`.
 ```kotlin
-IDSDK.init(getAssets());
+IDDetectSDK.init(assets);
 ```
-If initialization is successful, SDK would return `SDK_SUCCESS`. Otherwise, it would return an error message.
+If initialization is successful, `SDK` would return `SDK_SUCCESS`. Otherwise, it would return an error message.
