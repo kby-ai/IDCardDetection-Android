@@ -70,25 +70,22 @@ This repository demonstrates `ID document detection`, `ID card detector`, `ID ca
 🧙`Teams:` [KBY-AI](https://teams.live.com/l/invite/FBAYGB1-IlXkuQM3AY)</br>
 
 ## How To Run
-### 1. Placing Library File
-   Download the `SDK library` file for `Android`(`idsdk.aar`) from [here](https://drive.google.com/file/d/1hys99a7QG7-px_m8DGa9RKqR7wr6E8bS/view?usp=sharing) and put it on the suitable `SDK` folder(folder `libidsdk`).</br> 
-### 3. Running the App
   Try to build this repo on `Android Studio` by linking real `Android` phone, not `simulator`. Once it works fine, you are ready to integrate our `SDK` to your project.</br>
 
 ## About SDK
 
 ### 1. Set up
-1. Download our SDK library file(`idsdk.aar`) from [here](https://drive.google.com/file/d/1hys99a7QG7-px_m8DGa9RKqR7wr6E8bS/view?usp=sharing) and paste it to SDK folder(folder `libidsdk`).</br> Try to build this repo to make sure that SDK works fine by linking real `Android` phone, not `simulator`. Once it works fine, you are ready to integrate our SDK to your project.</br>
-And then copy the SDK(folder `libidsdk`) to the `root` folder in your project.
+1. Try to build this repo on `Android Studio` to make sure that `SDK` works fine by linking real `Android` phone, not `simulator`. Once it works fine, you are ready to integrate our `SDK` to your project.</br>
+And then copy the `SDK`(folder `iddetectsdk`) to the `root` folder in your project.
 
-2. Add SDK to the project in `settings.gradle`.
+2. Add `SDK` to the project in `settings.gradle`.
 ```bash
-include ':libidsdk'
+include ':iddetectsdk'
 ```
 
 3. Add dependency to your `build.gradle`.
 ```bash
-implementation project(path: ':libidsdk')
+implementation project(path: ':iddetectsdk')
 ```
 
 ### 2. Initializing the SDK
