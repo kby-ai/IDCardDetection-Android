@@ -64,7 +64,7 @@ This repository demonstrates `ID document detection`, `ID card detector`, `ID ca
 - The code line below shows how to update SDK with the `license key`: https://github.com/kby-ai/IDCardDetection-Android/blob/de499ea57181ced13efa67ffe0b78a2a43178a9b/app/src/main/java/com/kbyai/iddetect/CameraActivityKt.kt#L48-L56
 - To request `license key`, please contact us:</br>
 🧙`Email:` contact@kby-ai.com</br>
-🧙`Telegram:` [@kbyai](https://t.me/kbyai)</br>
+🧙`Telegram:` [@kbyaisupport](https://t.me/kbyaisupport)</br>
 🧙`WhatsApp:` [+19092802609](https://wa.me/+19092802609)</br>
 🧙`Discord:` [KBY-AI](https://discord.gg/CgHtWQ3k9T)</br>
 🧙`Teams:` [KBY-AI](https://teams.live.com/l/invite/FBAYGB1-IlXkuQM3AY)</br>
